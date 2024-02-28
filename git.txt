@@ -1,0 +1,10 @@
+git status: informa se a pasta tem git
+git init: transforma a pasta em repositório git
+git add: adiciona arquivos no repositório
+git add .: adiciona todos os arquivos no repositório
+git commit -m "anotacao": comita
+git branch -M main: transforma repositorio em main
+git remote add origin git@github.com:lucasamorimlra/notas.git: adiciona github
+git push -u origin main: envia arquivos
+ssh-keygen -t ed25519 -C "your_email@example.com": gera chave ssh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com": alternativa ao código anterior

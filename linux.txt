@@ -1,0 +1,4 @@
+pwd: mostra onde está
+ls: lista o que tem onde você está
+cd: muda o local
+cd ..: volta para a pasta anterior
